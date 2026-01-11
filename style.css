@@ -1,0 +1,89 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #070101;
+}
+
+h3 {
+    font-size: 20px;
+  }
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+  
+header {
+    background: #635f5f;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.Home-img img {
+    width: 1351px;   /* Mengatur lebar gambar */
+    height: 620px;  /* Mengatur tinggi gambar */
+}
+
+.header .Logo {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #dbd6d6;
+}
+
+.navbar a {
+    color: #f8efef;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.navbar a.active {
+    border-bottom: 2px solid #e7d6d6;
+}
+
+.navbar a:hover {
+    border-bottom: 2px solid #868282;
+}
+
+.article {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.article h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.article p {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+body{
+    background-color: grey;
+}
+
+
+.article{
+    background: #312f2f;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+.pas{
+width: 200px;
+height: 10px;
+}
